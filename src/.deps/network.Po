@@ -1,0 +1,11 @@
+network.o: network.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ vice.h config.h network.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+vice.h:
+
+config.h:
+
+network.h:

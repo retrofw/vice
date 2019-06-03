@@ -1,0 +1,33 @@
+pci-drv.o: pci-drv.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ ../../../src/vice.h ../../../src/config.h ../unix/pci-drv.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdio.h \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/features.h \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/bits/alltypes.h \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/string.h \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/strings.h \
+ ../unix/io-access.h ../unix/types.h ../../../src/log.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+../../../src/vice.h:
+
+../../../src/config.h:
+
+../unix/pci-drv.c:
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdio.h:
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/features.h:
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/bits/alltypes.h:
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/string.h:
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/strings.h:
+
+../unix/io-access.h:
+
+../unix/types.h:
+
+../../../src/log.h:

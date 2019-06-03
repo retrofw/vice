@@ -1,0 +1,11 @@
+raster-sprite.o: raster-sprite.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ ../../src/vice.h ../../src/config.h raster-sprite.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+../../src/vice.h:
+
+../../src/config.h:
+
+raster-sprite.h:

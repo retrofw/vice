@@ -1,0 +1,9 @@
+platform_aros_runtime_os.o: platform_aros_runtime_os.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ ../../src/vice.h ../../src/config.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+../../src/vice.h:
+
+../../src/config.h:

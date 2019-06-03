@@ -1,0 +1,17 @@
+voice.o: voice.cc \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ voice.h residdtv-config.h siddtvdefs.h wave.h bittrain.h envelope.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+voice.h:
+
+residdtv-config.h:
+
+siddtvdefs.h:
+
+wave.h:
+
+bittrain.h:
+
+envelope.h:

@@ -1,0 +1,5 @@
+*.o
+*.d
+*.a
+*.elf
+SDLVICE-dingoo-2.4.33/

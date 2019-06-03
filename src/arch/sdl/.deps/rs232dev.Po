@@ -1,0 +1,11 @@
+rs232dev.o: rs232dev.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ ../../../src/vice.h ../../../src/config.h ../unix/rs232dev.c
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+../../../src/vice.h:
+
+../../../src/config.h:
+
+../unix/rs232dev.c:

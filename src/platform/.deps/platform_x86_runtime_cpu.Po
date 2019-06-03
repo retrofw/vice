@@ -1,0 +1,11 @@
+platform_x86_runtime_cpu.o: platform_x86_runtime_cpu.c \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ ../../src/vice.h ../../src/config.h platform_x86_runtime_cpu.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+../../src/vice.h:
+
+../../src/config.h:
+
+platform_x86_runtime_cpu.h:

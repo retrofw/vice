@@ -1,0 +1,11 @@
+filter.o: filter.cc \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ filter.h residdtv-config.h siddtvdefs.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+filter.h:
+
+residdtv-config.h:
+
+siddtvdefs.h:

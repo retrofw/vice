@@ -1,0 +1,13 @@
+envelope.o: envelope.cc \
+ /home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h \
+ envelope.h resid-config.h siddefs.h dac.h
+
+/home/anonymous/Documents/Dev/rs97-toolchain/mipsel-buildroot-linux-musl/sysroot/usr/include/stdc-predef.h:
+
+envelope.h:
+
+resid-config.h:
+
+siddefs.h:
+
+dac.h:
